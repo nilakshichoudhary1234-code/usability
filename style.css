@@ -255,8 +255,8 @@ footer{
   gap: 10px;
 }
 .col-menu h4{
-  color:var(--primary-text-color)
-  font-weight: 700;
+  color:var(--primary-text-color);
+  font-width: 700;
   text-transform: capitalize;
   
 } 
