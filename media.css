@@ -36,24 +36,24 @@
   .primary-btn {
     width: 100%;
     text-align: center;
+    
   }
 }
-@media(width<=479px){
+@media (width <= 479px) {
     :root{
         --padding-inline-section: 5px;
     }
     h1{
-        font-size:2rem;
+        font-size: 2rem;
     }
     h2{
         font-size: 1.5rem;
     }
     p{
         font-size: 1rem;
-        color: black;
+        color:black
     }
-    .feature-card{
+    .feature-card {
         min-width: 100%;
     }
-
-}
+  }
