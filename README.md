@@ -60,12 +60,18 @@ Key usability attributes:
 
 ```mermaid
 flowchart TD
-    A[Define User Goals] --> B[Design Tasks]
-    B --> C[Conduct Usability Testing]
-    C --> D[Collect User Feedback]
-    D --> E[Analyze Results]
-    E --> F[Improve Design]
-Test Case: Website Navigation
+    A[Define User Goals]
+    B[Design User Tasks]
+    C[Conduct Usability Testing]
+    D[Collect User Feedback]
+    E[Analyze Results]
+    F[Improve Design]
+
+    A --> B
+    B --> C
+    C --> D
+    D --> E
+    E --> F
 
 Objective:
   Evaluate how easily users can find information
