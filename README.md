@@ -1,107 +1,85 @@
-<div align="center">
-
-<!-- Animated Title -->
-<img src="https://readme-typing-svg.herokuapp.com?size=36&duration=3000&color=00E6FF&center=true&vCenter=true&width=900&lines=📊+Usability+Project;🔍+Interactive+UX+Insights;✨+By+Nilakshi+Choudhary" />
-
-</div>
-
----
-
+<!-- ================= HEADER ================= -->
 <p align="center">
-  <img src="https://media.giphy.com/media/l4pTfx2qLszoacZRS/giphy.gif" width="280px">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1E293B,100:0F172A&height=120&section=header&text=Usability%20Engineering&fontSize=36&fontColor=FFFFFF" />
 </p>
 
 <p align="center">
-  This repository focuses on usability principles, testing, and implementation techniques to ensure user-friendly applications.  
-  Usability refers to how efficiently and satisfactorily users can interact with a system. :contentReference[oaicite:0]{index=0}
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=38BDF8&center=true&vCenter=true&width=650&lines=Usability+Analysis+%26+Evaluation;User-Centered+Design+Principles;Professional+Technical+Documentation" />
 </p>
 
 ---
 
-## 🔍 About Usability
+## 📌 About the Project
 
-In software development, **usability** is defined as the **degree to which a product can be used by its intended users to achieve specified goals with efficiency, effectiveness, and satisfaction**. :contentReference[oaicite:1]{index=1}
+This repository focuses on **Usability Engineering principles**, emphasizing how systems can be designed, evaluated, and improved to ensure **effective, efficient, and satisfactory user interaction**.
 
-Usability evaluations help make systems:
-
-- Easy to learn  
-- Efficient to use  
-- Easy to remember  
-- Low error-prone  
-- Pleasant to interact with :contentReference[oaicite:2]{index=2}
+The project is suitable for:
+- Academic submissions
+- UI/UX learning
+- Technical documentation
+- Usability evaluation practice
 
 ---
 
-## 🛠️ Tech Stack (Conceptual)
+## 🎯 Objectives
+
+- Understand usability concepts and standards  
+- Apply usability evaluation techniques  
+- Analyze user interaction issues  
+- Improve user experience based on feedback  
+
+---
+
+## 🛠️ Tools & Technologies
 
 <p align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Usability-Testing-Tools-0099FF?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/HTML5-Used-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-Used-1572B6?style=flat-square&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-Used-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Usability%20Evaluation-Conceptual-0EA5E9?style=flat-square"/>
 </p>
 
 ---
 
 ---
 
-## 🎯 What This Project Covers
+## 🔍 What is Usability?
 
-- Usability concepts and definitions  
-- Usability evaluation techniques  
-- Examples of usability testing scripts & tasks  
-- Reports and insights from testing sessions  
+**Usability** refers to how easily users can learn, use, and interact with a system to achieve their goals effectively and efficiently.
 
----
-
-## 🔄 Project Flow
-
-<p align="center">
-  <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" width="380px">
-</p>
-
+Key usability attributes:
+- Learnability
+- Efficiency
+- Memorability
+- Error handling
+- User satisfaction
 
 ---
 
-## 🧠 Usability Evaluation (Example)
+## 🧪 Usability Evaluation Process
 
-Usability evaluation methods you might include:
+```mermaid
+flowchart TD
+    A[Define User Goals] --> B[Design Tasks]
+    B --> C[Conduct Usability Testing]
+    C --> D[Collect User Feedback]
+    D --> E[Analyze Results]
+    E --> F[Improve Design]
+Test Case: Website Navigation
 
-- **User Testing** – observe actual users  
-- **Heuristic Evaluation** – experts examine against usability principles (e.g., Nielsen’s heuristics) :contentReference[oaicite:3]{index=3}  
-- **Feedback Surveys** – measure satisfaction  
-- **Error Analysis** – identify common user errors  
-
----
-
-## 📌 Usability Principles
-
-1. **Learnability** – easy to start using  
-2. **Efficiency** – perform tasks quickly  
-3. **Memorability** – easy to return after time  
-4. **Errors** – few errors and easy recovery  
-5. **Satisfaction** – pleasant experience :contentReference[oaicite:4]{index=4}
-
----
-
-## 📄 Example Usability Test
-
-```text
-Test Script: Login Page
-
-Goal:
-  Evaluate how easily users can sign in
+Objective:
+  Evaluate how easily users can find information
 
 Tasks:
-  1. Navigate to sign-in page
-  2. Enter valid login credentials
-  3. Submit and access dashboard
+  1. Navigate to the homepage
+  2. Locate a specific section
+  3. Complete a defined task
 
 Metrics:
-  ⏱️ Time to complete  
-  ❌ Errors encountered  
-  😊 User satisfaction rating
+  - Time taken
+  - Errors made
+  - User satisfaction score
 
 
-## 📁 Suggested Project Structure
+## 📁 Project Structure
 
