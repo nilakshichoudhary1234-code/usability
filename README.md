@@ -56,36 +56,4 @@ Key usability attributes:
 
 ---
 
-## 🧪 Usability Evaluation Process
-
-```mermaid
-flowchart TD
-    A[Define User Goals]
-    B[Design User Tasks]
-    C[Conduct Usability Testing]
-    D[Collect User Feedback]
-    E[Analyze Results]
-    F[Improve Design]
-
-    A --> B
-    B --> C
-    C --> D
-    D --> E
-    E --> F
-
-Objective:
-  Evaluate how easily users can find information
-
-Tasks:
-  1. Navigate to the homepage
-  2. Locate a specific section
-  3. Complete a defined task
-
-Metrics:
-  - Time taken
-  - Errors made
-  - User satisfaction score
-
-
-## 📁 Project Structure
 
